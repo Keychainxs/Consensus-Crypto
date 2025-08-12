@@ -1,0 +1,37 @@
+{
+  "count": 2,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "id": 12345,
+      "title": "Bitcoin ETF Inflows Hit Record High as Institutional Adoption Accelerates",
+      "url": "https://example.com/bitcoin-etf-record-inflows",
+      "published_at": "2024-01-15T14:30:00Z",
+      "source": {
+        "domain": "coindesk.com",
+        "title": "CoinDesk"
+      },
+      "votes": {
+        "negative": 2,
+        "positive": 45,
+        "important": 12
+      }
+    },
+    {
+      "id": 12346,
+      "title": "BlackRock's IBIT Sees Massive Creation Activity Amid Growing Institutional Interest",
+      "url": "https://example.com/blackrock-ibit-creation-activity",
+      "published_at": "2024-01-15T15:15:00Z",
+      "source": {
+        "domain": "cointelegraph.com",
+        "title": "Cointelegraph"
+      },
+      "votes": {
+        "negative": 1,
+        "positive": 67,
+        "important": 23
+      }
+    }
+  ]
+}

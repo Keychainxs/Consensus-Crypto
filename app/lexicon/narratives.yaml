@@ -1,0 +1,30 @@
+narratives:
+  ETF_flows:
+    asset: BTC
+    terms:
+      - "spot ETF"
+      - "bitcoin ETF"
+      - "BTC ETF"
+      - "inflows"
+      - "outflows"
+      - "redemptions"
+      - "creations"
+      - "GBTC"
+      - "iShares"
+      - "BlackRock"
+      - "Fidelity"
+      - "IBIT"
+      - "FBTC"
+      - "ARKB"
+    fuzzy_variants:
+      - "etf flow"
+      - "net flow"
+      - "creation units"
+      - "etf inflow"
+      - "etf outflow"
+      - "institutional flow"
+    kpis:
+      - name: "etf_net_flow_usd"
+        source: "stub_etf_api"
+        agg: "sum_24h"
+        direction: "higher_is_bullish"

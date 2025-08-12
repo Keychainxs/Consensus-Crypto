@@ -1,0 +1,46 @@
+[
+  {
+    "id": "1234567890",
+    "text": "BREAKING: Bitcoin spot ETF sees record $500M inflows today! BlackRock leading the charge. #Bitcoin #ETF",
+    "author_id": "analyst_mike",
+    "created_at": "2024-01-15T10:30:00Z",
+    "public_metrics": {
+      "retweet_count": 150,
+      "like_count": 850,
+      "reply_count": 45
+    }
+  },
+  {
+    "id": "1234567891", 
+    "text": "Fidelity FBTC showing strong creation activity. ETF flows continuing to be positive for BTC adoption.",
+    "author_id": "crypto_analyst",
+    "created_at": "2024-01-15T11:15:00Z",
+    "public_metrics": {
+      "retweet_count": 85,
+      "like_count": 420,
+      "reply_count": 28
+    }
+  },
+  {
+    "id": "1234567892",
+    "text": "Weather is looking great for skiing this weekend! Can't wait to hit the slopes.",
+    "author_id": "ski_enthusiast",
+    "created_at": "2024-01-15T12:00:00Z",
+    "public_metrics": {
+      "retweet_count": 5,
+      "like_count": 25,
+      "reply_count": 8
+    }
+  },
+  {
+    "id": "1234567893",
+    "text": "IBIT creation units spike as institutional demand for Bitcoin ETF exposure grows. Bullish signal for crypto adoption.",
+    "author_id": "institutional_tracker",
+    "created_at": "2024-01-15T13:45:00Z",
+    "public_metrics": {
+      "retweet_count": 120,
+      "like_count": 680,
+      "reply_count": 67
+    }
+  }
+]
